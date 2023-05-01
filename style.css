@@ -1,0 +1,104 @@
+#MainTitle {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 7vw;
+    font-weight: bold;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+
+#MyMenu {
+    color:"#E5E8E8" !important
+}
+
+#Title{
+    background-color: #E5E8E8;
+    margin:0px;
+    text-align: center;
+    margin-top: -20px;
+    top:0;
+}
+
+#Paragraph{
+    margin-top: 15px;
+    font-size: 25px;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+#guyWithComputer{
+    float: left;
+}
+
+#contactMe{
+    font-size: 25px;
+    color: #BDC3C7;
+}
+
+#Contact{
+    background-color: #212F3D;
+    text-align: center;
+    width: 100%;
+    /*line-height:2;*/
+    bottom:0;
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+
+#hint{
+    font-size: 15px;
+}
+
+.modal-dialog{
+    margin-top: 75px;
+    width: 90%;
+    text-align: center;
+}
+
+.VideoImg{
+    width: 50%;
+    margin-left: 20px;
+}
+
+.VideoTutorials{
+    border: 5px solid black;
+    /*width: 70%;*/
+    margin: 30px;
+    /*margin-left:300px;*/
+}
+
+
+#DivWithImg{
+    width: 45%;
+    display: inline-block;
+    position:relative;
+    margin-left:50px;
+} 
+
+#DivText{
+    width: 45%;
+    display: inline-block;
+    position:relative;
+    height: 90%;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 25px;
+}
+
+#ParagraphForHome{
+    float: none;
+    margin: 5px;
+}
+
+
+
+#YtLogo{
+    width: 4%;
+}
+
+#Email{
+    color:white;
+}
+
+#owner{
+    color:white;
+
+}
+
